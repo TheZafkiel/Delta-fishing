@@ -88,3 +88,11 @@ python observe.py
 - `assets/`：运行必需的模板与提示音，必须一起上传和下载。
 
 运行时生成的诊断截图位于 `work/detection_debug/`，仅观察模式还会生成 `preview.png` 等文件，均已忽略提交。识别失败时可检查这些截图是否包含正确的 HUD 区域。
+
+## 许可证
+
+本项目代码采用 [GNU General Public License v3.0](LICENSE)（`GPL-3.0-only`）。
+
+允许使用、修改、分发和商业使用。分发受 GPL 覆盖的修改版时，应继续遵守 GPL-3.0；分发二进制版本时，须按许可证要求向接收者提供相应源码。软件不提供担保，完整条款以 [LICENSE](LICENSE) 为准。
+
+第三方依赖及素材的既有权利和许可不因本声明而改变。
