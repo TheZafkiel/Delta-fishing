@@ -1,0 +1,20 @@
+# Local settings and Python environment
+/config.py
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+# Generated captures and diagnostics
+/work/
+/preview.png
+/splash_mask.png
+*.log
+# Local backups and private environment files
+/更新前原版/
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
